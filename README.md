@@ -1,10 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm CartesianCanvas</h1>
-<h3 align="center">Just a puny hooman fascinated by the world of curves.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cartesiancanvas&label=Profile%20views&color=0e75b6&style=flat" alt="cartesiancanvas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cartesiancanvas" alt="cartesiancanvas" /></a> </p>
 
 - 🔭 I’m currently working on **Virtual MsPaint**
 
@@ -14,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning and AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cartesiancanvas](https://github.com/cartesiancanvas)
+- 👨‍💻 All of my projects are available at [https://github.com/cartesiancanvas?tab=repositories](https://github.com/cartesiancanvas?tab=repositories)
 
 - 💬 Ask me about **anything😎**
 
