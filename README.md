@@ -1,13 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm CartesianCanvas</h1>
 
-- 🔭 I’m currently working on **Virtual MsPaint**
-
-- 🌱 I’m currently learning **Image Recognition using OpenCV**
-
 - 👯 I’m looking to collaborate on **exciting Projects😀**
-
-- 🤝 I’m looking for help with **Machine Learning and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cartesiancanvas?tab=repositories](https://github.com/cartesiancanvas?tab=repositories)
 
